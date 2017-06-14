@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Patrick+Hand+SC|Vibur');
+
+
+h1 {
+  background-color: inherit;
+  color: #FF2DD2;
+  font-size: 64px;
+  font-style: oblique;
+  text-align: center;
+  font-family: 'Vibur', cursive;
+}
